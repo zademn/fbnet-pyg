@@ -6,3 +6,10 @@ This was done as part of a course where we had to reproduce some sota research. 
 
 - [Chamfer distance repo](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch)
 - `FBNET.py` was taken from the official repo
+
+Relevant libs:
+```
+pytorch 1.13
+pytorch_geometric 2.2
+einops
+```
